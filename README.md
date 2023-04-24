@@ -28,4 +28,5 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 - [Eddy](https://eddyc10.github.io/)
 - [Brylene Patrick](https://brylenelavelle.github.io/)
 - [Sinhue Herrera](https://sinhueherrera90.github.io/)
-- [Ximena Castillo https://meenoow.github.io/)
+- [Ximena Castillo] https://meenoow.github.io/)
+>>>>>>> 97e30beb60961458771bd12b4a7298f5f0be9f38
