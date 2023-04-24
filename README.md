@@ -5,3 +5,4 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 
 
 ## Links
+- * [Brylene Patrick] (https://brylenelavelle.github.io/)
