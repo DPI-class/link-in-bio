@@ -26,8 +26,6 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 - [Nayla Castillo](https://castnay.github.io/)
 - [Miroslava Osorio](https://mosorio1.github.io) 
 - [Ryan Mertz](https://ryanmertz3.github.io)
-
-
 - [Brylene Patrick](https://brylenelavelle.github.io/)
 - [Sinhue Herrera](https://sinhueherrera90.github.io/)
 - [Ximena Castillo](https://meenoow.github.io/)
