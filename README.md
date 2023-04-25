@@ -28,3 +28,4 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 - [Brylene Patrick](https://brylenelavelle.github.io/)
 - [Sinhue Herrera](https://sinhueherrera90.github.io/)
 - [Ximena Castillo](https://meenoow.github.io/)
+- [Adam Bonjoc](https://adabon1.github.io/)
