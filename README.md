@@ -4,7 +4,7 @@
 Add your own link in bio. Clone this repository (or open in codespace), create a branch, add your link in bio, commit, push branch, create a pull request into main branch. Pull requests must have at least 1 approval before being merged. Please, do not commit directly to `main`. 
 
 
-## Links{
+## Links
 - [Yanet Roman](https://yanettechprep.github.io)
 - [Dustin Doyle](https://dantexkilljoy.github.io)
 - [Ian Heraty](https://heratyian.github.io/)
@@ -28,5 +28,4 @@ Add your own link in bio. Clone this repository (or open in codespace), create a
 - [Eddy](https://eddyc10.github.io/)
 - [Brylene Patrick](https://brylenelavelle.github.io/)
 - [Sinhue Herrera](https://sinhueherrera90.github.io/)
-- [Ximena Castillo] https://meenoow.github.io/)
->>>>>>> 97e30beb60961458771bd12b4a7298f5f0be9f38
+- [Ximena Castillo](https://meenoow.github.io/)
