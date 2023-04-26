@@ -4,7 +4,7 @@
 Add your own link in bio. Clone this repository (or open in codespace), create a branch, add your link in bio, commit, push branch, create a pull request into main branch. Pull requests must have at least 1 approval before being merged. Please, do not commit directly to `main`. 
 
 ## Links
-- [Kiara Jefferson] (https://kiara-techprep.github.io/)
+- [Kiara Jefferson](https://kiara-techprep.github.io/)
 - [Jazmin Eubanks](https://jazmineubanks.github.io/jazmin-eubanks.github.io/)
 - [Yanet Roman](https://yanettechprep.github.io)
 - [Dustin Doyle](https://dantexkilljoy.github.io)
