@@ -1,4 +1,4 @@
-# DPI-WE Link In Bio
+# Link In Bio
 
 ## How to Contribute
 Add your own link in bio. Clone this repository (or open in codespace), create a branch, add your link in bio, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to `main`!
